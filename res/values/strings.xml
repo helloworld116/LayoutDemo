@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LayoutDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn1">按钮一</string>
+    <string name="btn2">按钮二</string>
+    <string name="btn3">按钮三</string>
+
+</resources>
